@@ -1,0 +1,15 @@
+{
+  "name": "test_bitcoinjs",
+  "version": "1.0.0",
+  "description": "to test bitcoinjs lib",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bitcoinjs-lib": "^3.0.3",
+    "randombytes": "^2.0.4"
+  }
+}
